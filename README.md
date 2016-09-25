@@ -38,7 +38,7 @@ I am a beginner. This course is very important to me.
 
 Adding an Item / Editing an Item / Saving and going back to the first screen
 
-![alt tag] /var/folders/tf/6c06s5qs6p53_0b5hb96m4480000gn/T/com.apple.Preview/com.apple.Preview.PasteboardItems/SimpleToDo-25 (dragged) 1.tiff
+![alt tag] 
 
 ## License
 
